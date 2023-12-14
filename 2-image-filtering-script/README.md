@@ -45,7 +45,7 @@ Bilateral filtering smooths the image while preserving edges by considering both
 
 | Original Image                | Bilateral Filtered Image               |
 |-------------------------------|----------------------------------------|
-| ![Original Image](sarah_original.png) | ![Bilateral Filter](results/sarah_filtered.png) |
+| ![Original Image](results/sarah_original.png) | ![Bilateral Filter](results/sarah_filtered.png) |
 
 ## Usage
 1. Clone this repository.
